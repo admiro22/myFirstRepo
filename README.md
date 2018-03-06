@@ -1,11 +1,7 @@
 first commit
 # myFirstRepo
-the first repo
+the first repo i made
 
 check check 123
 2hjfghyvghgyvg
-
-try commit again
-
-hahaha udah bisa
-udah bisa
+pull practice
